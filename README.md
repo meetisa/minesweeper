@@ -1,1 +1,2 @@
-A traditional version of minesweeper. Nothing special
+# minesweeper
+A traditional version of minesweeper. Nothing special.
